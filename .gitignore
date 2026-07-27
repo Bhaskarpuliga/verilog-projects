@@ -1,0 +1,7 @@
+# Ignore waveform files
+*.vcd
+
+# Ignore simulation executables
+*.exe
+*_sim
+sim
